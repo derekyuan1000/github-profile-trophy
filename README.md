@@ -77,6 +77,8 @@ These are endpoints provided by volunteers. Please use these in moderation.
   [DevomB](https://github.com/DevomB/Github-Trophies)
 - [https://github-profile-trophy-unserori.vercel.app/](https://github-profile-trophy-unserori.vercel.app/)
   by [unSerori](https://github.com/unSerori)
+- [https://github-profile-trophy.derekyuan.co.uk/](https://github-profile-trophy.derekyuan.co.uk/)
+  by [derekyuan1000](https://github.com/derekyuan1000)
 
 # Quick Start
 
